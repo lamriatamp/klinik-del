@@ -1,2 +1,2 @@
 # klinik-del
-Pemenuhan Tuas Matakuliah PPW
+Pemenuhan Tugas Matakuliah PPW
